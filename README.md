@@ -20,6 +20,7 @@ Raw Files (Lakehouse)
       ↓
 Power BI DirectLake Dashboard
 ```
+<img width="2559" height="1230" alt="image" src="https://github.com/user-attachments/assets/67cecdc7-bcdd-42b9-944a-5f49083bd38b" />
 
 ---
 
@@ -46,6 +47,8 @@ Power BI DirectLake Dashboard
 ```
 
 > **Step 1 (data ingestion)** is done manually by uploading raw CSV/Excel files into the Microsoft Fabric Lakehouse and converting them to Delta tables via the Lakehouse UI.
+<img width="2559" height="1153" alt="image" src="https://github.com/user-attachments/assets/4802ea5a-d5bd-43cb-b294-66bd2d2a1213" />
+
 
 ---
 
@@ -194,6 +197,8 @@ All runs are logged under the experiment name `stockout_prediction_fmcg`. Each r
 
 View experiments in the **Fabric ML Experiments** UI.
 
+<img width="2559" height="730" alt="image" src="https://github.com/user-attachments/assets/88c4abe6-3935-44ce-ada4-135e92f1c3fb" />
+
 ---
 
 ## Output Table Reference
@@ -244,7 +249,4 @@ The model handles 7 FMCG categories with perishability flags:
 
 ---
 
-## License
-
-This project is provided for internal use. Adapt as needed for your organisation.
 
